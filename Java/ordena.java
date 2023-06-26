@@ -1,4 +1,4 @@
-public class Ordena{
+public class ordena{
 
 	public static void imprime(int[] a){
 		for(int i=0; i<a.length; i++){
